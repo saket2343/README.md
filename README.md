@@ -14,7 +14,7 @@
 - 📈 Ranked among the **Top 150 participants nationwide** in the **NK Securities Volatility Price Prediction Challenge**.
 - 🌏 **Selected among the Top 20 students** to represent **IIT Madras** in the **Joint Problem-Based Learning (PBL) Program** with the **University of Tsukuba, Japan**, on a global platform.
 - 💻 Secured **12th Rank** among **100+ participants** in the **HackerRank DSA Hackathon** through efficient algorithmic problem-solving.
-- 🤖 **Selected among the Top 3,000 candidates** from **15,000+ applicants** for the **Amazon ML Summer School 2026**.
+- 🤖 **Selected among the Top 3,000 candidates** from **15,0000+ applicants** for the **Amazon ML Summer School 2026**.
 
 ---
 
