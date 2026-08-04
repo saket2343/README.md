@@ -1,77 +1,133 @@
-# Hi there 👋, I'm Saket Pandey
+<h1 align="center">Hi 👋, I'm Saket Pandey</h1>
+<h3 align="center">Building AI that transforms research into real-world impact.</h3>
 
-🎓 I'm a **5th-year Dual Degree student** at the **Indian Institute of Technology (IIT) Madras**, pursuing **Biological Sciences** with a specialization in **Computational Biology**.
-
-🚀 I am passionate about **Artificial Intelligence, Machine Learning, Data Science, Quantitative Finance, and AI Research**. I enjoy building intelligent systems, developing Large & Small Language Models, solving real-world problems using data, and exploring cutting-edge research in Generative AI.
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Rank** in the **Quaninsti Algorithmic Trading Competition**.
-- 🥉 **3rd Rank** in the **ICICI Prudential Solvex Hackathon**.
-- 🏅 Achieved **29th Rank** in the **KLA AI Hack**.
-- 📈 Ranked among the **Top 150 participants nationwide** in the **NK Securities Volatility Price Prediction Challenge**.
-- 🌏 **Selected among the Top 20 students** to represent **IIT Madras** in the **Joint Problem-Based Learning (PBL) Program** with the **University of Tsukuba, Japan**, on a global platform.
-- 💻 Secured **12th Rank** among **100+ participants** in the **HackerRank DSA Hackathon** through efficient algorithmic problem-solving.
-- 🤖 **Selected among the Top 3,000 candidates** from **15,0000+ applicants** for the **Amazon ML Summer School 2026**.
+<p align="center">
+🎓 IIT Madras • 🤖 AI Research • 📊 Data Science • 🧠 Machine Learning • 🚀 LLMs & SLMs
+</p>
 
 ---
 
-## 💼 Experience
+## 👨‍💻 About Me
 
-### Machine Learning Intern | London Stock Exchange Group (LSEG)
+I'm a **5th-year Dual Degree student** at the **Indian Institute of Technology (IIT) Madras**, pursuing **Biological Sciences** with a specialization in **Computational Biology**.
 
-- Fine-tuned **Small Language Models (SLMs)** for intelligent proxy-based information extraction from complex financial documents.
-- Developed document understanding and structured data extraction pipelines for enterprise-scale financial workflows.
-- Worked with modern LLM/SLM techniques including fine-tuning, prompt engineering, and efficient open-source model deployment.
+My journey began with solving algorithmic problems and has evolved into building **Large Language Models, Small Language Models, Retrieval-Augmented Generation systems, Financial AI solutions, and intelligent machine learning pipelines**.
+
+I love working where **AI meets research**—whether it's extracting knowledge from financial documents, predicting market behavior, or developing next-generation intelligent systems.
+
+> **Curious enough to ask "Why?"  
+> Passionate enough to build "How?"**
 
 ---
 
-## 🔬 Research Interests
+## 🚀 Currently
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Large Language Models (LLMs)
-- Small Language Models (SLMs)
+🔬 Machine Learning & AI Enthusiast
+
+💼 Former Machine Learning Intern at **London Stock Exchange Group (LSEG)**
+
+🤖 Working on
+- Large & Small Language Models
 - AI Agents
-- Retrieval-Augmented Generation (RAG)
-- AI for Finance
-- Data Science
-- Quantitative Finance
-- Computer Vision
-- Natural Language Processing
+- RAG Systems
+- Financial AI
+- Quantitative Machine Learning
+
+📚 Learning
+- Multimodal AI
+- AI Reasoning
+- Reinforcement Learning
+- Foundation Models
 
 ---
 
-## 🛠️ Tech Stack
+# 🏆 Highlights
+
+🏅 **29th** in the **KLA AI Hack**
+
+🥉 **3rd Place** in the **ICICI Prudential Solvex Hackathon**
+
+🥇 **1st Place** in the **Quaninsti Algorithmic Trading Competition**
+
+📈 **Top 150 Nationwide** in the **NK Securities Volatility Prediction Challenge**
+
+🌏 Selected among the **Top 20 IIT Madras students** to represent the institute in the **Joint Problem-Based Learning Program** with the **University of Tsukuba, Japan**
+
+💻 **12th Rank** among **100+ participants** in the **HackerRank DSA Hackathon**
+
+🚀 Selected among the **Top 3,000 candidates** from **15,000+ applicants** for the **Amazon ML Summer School 2026**
+
+---
+
+# 💼 Experience
+
+## Machine Learning Intern @ London Stock Exchange Group
+
+Worked on building enterprise-scale AI systems by fine-tuning **Small Language Models (SLMs)** for intelligent information extraction from financial documents.
+
+### What I worked on
+
+⚡ Fine-tuning open-source language models
+
+📄 Financial document understanding
+
+🧠 Intelligent data extraction pipelines
+
+🚀 Prompt Engineering & Model Optimization
+
+📊 Enterprise AI workflows
+
+---
+
+# 🧠 Interests
+
+```text
+Artificial Intelligence
+├── Machine Learning
+├── Deep Learning
+├── LLMs
+├── SLMs
+├── AI Agents
+├── RAG
+├── NLP
+├── Computer Vision
+└── Quantitative Finance
+```
+
+---
+
+# ⚙️ Tech Arsenal
 
 ### Languages
-`Python` `C++` `SQL` `JavaScript`
+
+Python • C++ • SQL • JavaScript
 
 ### AI & Machine Learning
-`PyTorch` `TensorFlow` `Scikit-Learn` `Transformers` `Hugging Face` `LangChain` `PEFT` `LoRA` `QLoRA`
+
+PyTorch • TensorFlow • Scikit-Learn • Hugging Face • Transformers • LangChain • LoRA • QLoRA • PEFT
 
 ### Data Science
-`Pandas` `NumPy` `Matplotlib` `XGBoost` `LightGBM`
+
+Pandas • NumPy • Matplotlib • XGBoost • LightGBM
 
 ### Tools
-`Git` `Docker` `Linux` `Jupyter Notebook` `VS Code`
+
+Git • Docker • Linux • VS Code • Jupyter
 
 ---
 
-## 🌱 Currently Exploring
+# 🌱 Philosophy
 
-- Efficient LLM & SLM Fine-tuning
-- AI Agents & Agentic Workflows
-- Retrieval-Augmented Generation (RAG)
-- Financial AI
-- Multimodal AI
-- AI Research
+I believe AI should do more than automate—it should **reason, assist, and amplify human potential.**
+
+Every project I build is another step toward that vision.
 
 ---
 
-### 💡 Motto
+<h3 align="center">
 
-> **"Driven by curiosity, inspired by research, and committed to building AI that creates meaningful real-world impact."**
+⭐ Thanks for visiting my profile! ⭐
+
+If you enjoy AI, Machine Learning, or open-source projects, let's connect and build something impactful together.
+
+</h3>
